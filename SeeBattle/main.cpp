@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include "SeeBattle.h"
 
+
 void clear_screen(){
 #ifdef WINDOWS
     std::system ("cls");
